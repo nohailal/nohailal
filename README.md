@@ -25,7 +25,7 @@ I'm a developer , i like to code and make fun amination and building things , i 
 
 🧠 LifeLog is a personal productivity and wellness web app that helps you stay organized and mentally balanced. It combines task management, journaling, health tracking, and private reflection in one place.
 
-[View Project](llifelog.vercel.app/)
+[View Project](https://github.com/nohailal/Life-log..git)
 
 ---
 
