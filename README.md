@@ -3,6 +3,9 @@
 
 I'm a developer , i like to code and make fun amination and building things , i enjoy creating simple and easy website
 
+## Contact Me
+<p><a href="Nouhaila El banoudi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
 ## Skills
 
 <p align="left">
@@ -23,13 +26,17 @@ I'm a developer , i like to code and make fun amination and building things , i 
 
 ### LifeLog
 
+<img src="https://postimg.cc/ykp4yftL" alt="LifeLog" width="300"/>
+
 🧠 LifeLog is a personal productivity and wellness web app that helps you stay organized and mentally balanced. It combines task management, journaling, health tracking, and private reflection in one place.
 
-[View Project](https://github.com/nohailal/Life-log..git)
+[View Project](llifelog.vercel.app/)
 
 ---
 
 ### Profito
+
+<img src="https://postimg.cc/n9Hb0NnP" alt="Profito" width="300"/>
 
 PROFITO is a sleek, modern web application designed to help users master the art of professional writing. With a dynamic and animated user interface, PROFITO provides comprehensive guidance on creating compelling CVs, cover letters, LinkedIn profiles, and professional reports.
 
