@@ -26,7 +26,7 @@ I'm a developer , i like to code and make fun amination and building things , i 
 
 ### LifeLog
 
-<img src="https://postimg.cc/ykp4yftL" alt="LifeLog" width="300"/>
+<img src="https://i.postimg.cc/NjBsYS4v/lifelogpage.png" alt="LifeLog" width="300"/>
 
 🧠 LifeLog is a personal productivity and wellness web app that helps you stay organized and mentally balanced. It combines task management, journaling, health tracking, and private reflection in one place.
 
@@ -36,7 +36,7 @@ I'm a developer , i like to code and make fun amination and building things , i 
 
 ### Profito
 
-<img src="https://postimg.cc/n9Hb0NnP" alt="Profito" width="300"/>
+<img src="https://i.postimg.cc/wMNqTdZg/profitopage.png" alt="Profito" width="300"/>
 
 PROFITO is a sleek, modern web application designed to help users master the art of professional writing. With a dynamic and animated user interface, PROFITO provides comprehensive guidance on creating compelling CVs, cover letters, LinkedIn profiles, and professional reports.
 
