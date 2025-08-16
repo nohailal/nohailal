@@ -1,7 +1,7 @@
 # Hello 👋, I'm Nouhaila
 ### developer
 
-I'm a developer , i like to code and make fun amination and building things , i enjoy creating simple and easy website
+I’m a developer who loves coding, creating fun animations, and building projects from the ground up. I enjoy crafting clean, simple, and user-friendly websites that make technology easy to use.
 
 ## Contact Me
 <p><a href="Nouhaila El banoudi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
